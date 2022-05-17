@@ -47,6 +47,13 @@ h6 {
     font-size: 20px;
 }
 
+h7 {
+    color: black;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 20px;
+}
+
 body {
     background-image: url('./src/BKG.png');
     background-repeat: no-repeat;
